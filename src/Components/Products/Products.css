@@ -1,0 +1,22 @@
+.product {
+    border: 1px solid rgba(189, 191, 193, 0.638);
+    margin: auto;
+    padding: 20px;
+    border-radius: 8px;
+}
+.add-cart-btn {
+    border: none;
+    font-size: large;
+    font-weight: 600;
+    text-align: center;
+    background-color: coral;
+    padding: 10px;
+    width: 100%;
+    border-radius: 8px;
+    color: white;
+    cursor: pointer;
+}
+.add-cart-btn:hover {
+    color: coral;
+    background-color: rgb(243, 226, 195);
+}

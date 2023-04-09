@@ -1,0 +1,18 @@
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.grandpa {
+    text-align: center;
+}
+
+.border,
+.grandpa {
+    border: 2px solid goldenrod;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
